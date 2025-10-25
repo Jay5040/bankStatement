@@ -1,0 +1,752 @@
+[
+  {
+    "transaction_date": "2018-10-13",
+    "transaction_postdate": "2018-10-16",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 0.31,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 2.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2018-10-17",
+    "transaction_postdate": "2018-10-19",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 20.0,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 2.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2018-10-17",
+    "transaction_postdate": "2018-10-18",
+    "transaction_description": "UNITED WAY OF WINNIPEG WINNIPEG MB",
+    "spend_category": "Personal and Household Expenses",
+    "amount": 20.0,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 2.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-10-21",
+    "transaction_postdate": "2018-10-23",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 500.0,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 2.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2018-10-28",
+    "transaction_postdate": "2018-10-30",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 19.94,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 2.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2018-10-28",
+    "transaction_postdate": "2018-10-31",
+    "transaction_description": "Skype Luxembourg",
+    "spend_category": "Professional and Financial Services",
+    "amount": 25.0,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 2.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-10-28",
+    "transaction_postdate": "2018-11-02",
+    "transaction_description": "SKYPE.COM/GO/BILL SKYPECOM",
+    "spend_category": "Professional and Financial Services",
+    "amount": 10.0,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 2.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-10-31",
+    "transaction_postdate": "2018-11-02",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 25.0,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 2.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2018-10-31",
+    "transaction_postdate": "2018-11-05",
+    "transaction_description": "GO.SKYPE.COM/BILL LUXEMBOURG",
+    "spend_category": "Professional and Financial Services",
+    "amount": 25.0,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 2.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-11-03",
+    "transaction_postdate": "2018-11-06",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 285.0,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 2.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2018-11-03",
+    "transaction_postdate": "2018-11-05",
+    "transaction_description": "MEDCOUNCIL/CONSEILMED OTTAWA ON",
+    "spend_category": "Health and Education",
+    "amount": 285.0,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 2.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-11-04",
+    "transaction_postdate": "2018-11-06",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 25.0,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 2.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2018-11-04",
+    "transaction_postdate": "2018-11-08",
+    "transaction_description": "GO.SKYPE.COM/BILL LUXEMBOURG",
+    "spend_category": "Professional and Financial Services",
+    "amount": 25.0,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 2.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-11-06",
+    "transaction_postdate": "2018-11-08",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 48.0,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 2.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2018-11-07",
+    "transaction_postdate": "2018-11-08",
+    "transaction_description": "DALHOUSIE SCHOOL LUNC WINNIPEG BC",
+    "spend_category": "Health and Education",
+    "amount": 48.0,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 2.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-11-14",
+    "transaction_postdate": "2018-11-16",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 33.97,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 3.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2018-11-14",
+    "transaction_postdate": "2018-11-15",
+    "transaction_description": "RECARGASA C *33963657 017868710133",
+    "spend_category": "Foreign Currency Transactions",
+    "amount": 33.97,
+    "card_number": "4505 5300 3195 4066",
+    "source_pdf": "onlineStatement 3.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-11-23",
+    "transaction_postdate": "2018-11-26",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 1200.0,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 3.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2018-11-23",
+    "transaction_postdate": "2018-11-26",
+    "transaction_description": "SAI CONFERENCES THESAI.ORG DE",
+    "spend_category": "Foreign Currency Transactions",
+    "amount": 1019.41,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 3.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-11-23",
+    "transaction_postdate": "2018-11-26",
+    "transaction_description": "DOLLARAMA # 503 WINNIPEG MB",
+    "spend_category": "Retail and Grocery",
+    "amount": 1.13,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 3.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-11-23",
+    "transaction_postdate": "2018-11-26",
+    "transaction_description": "SHOPPERSDRUGMART0537 WINNIPEG MB",
+    "spend_category": "Health and Education",
+    "amount": 100.0,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 3.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-11-29",
+    "transaction_postdate": "2018-11-30",
+    "transaction_description": "DALHOUSIE SCHOOL LUNC WINNIPEG BC",
+    "spend_category": "Health and Education",
+    "amount": 48.0,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 3.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-11-30",
+    "transaction_postdate": "2018-12-03",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 1200.0,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 3.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2018-12-05",
+    "transaction_postdate": "2018-12-07",
+    "transaction_description": "CASH METROPOLITANO S.309 LA HABANA, CU",
+    "spend_category": "Foreign Currency Transactions",
+    "amount": 1233.01,
+    "card_number": "4505 5300 8775 4980",
+    "source_pdf": "onlineStatement 3.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-12-06",
+    "transaction_postdate": "2018-12-07",
+    "transaction_description": "TIM HORTONS #2796 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 1.96,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 3.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-12-06",
+    "transaction_postdate": "2018-12-07",
+    "transaction_description": "TIM HORTONS #2796 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 1.96,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 3.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-12-09",
+    "transaction_postdate": "2018-12-11",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 223.47,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 3.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2018-12-09",
+    "transaction_postdate": "2018-12-11",
+    "transaction_description": "APEGM WINNIPEG MB",
+    "spend_category": "Professional and Financial Services",
+    "amount": 218.0,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 3.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2018-12-10",
+    "transaction_postdate": "2018-12-11",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 9.65,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 3.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2018-12-10",
+    "transaction_postdate": "2018-12-11",
+    "transaction_description": "ANSWERS WINNIPEG MB",
+    "spend_category": "Health and Education",
+    "amount": 9.65,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 3.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-06-15",
+    "transaction_postdate": "2020-06-16",
+    "transaction_description": "LITTLE CAESARS PEMBINA SOWINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 12.31,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-06-18",
+    "transaction_postdate": "2020-06-19",
+    "transaction_description": "REAL CDN. SUPERSTORE # WINNIPEG MB",
+    "spend_category": "Retail and Grocery",
+    "amount": 40.24,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-06-20",
+    "transaction_postdate": "2020-06-22",
+    "transaction_description": "TIM HORTONS #8152 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 3.87,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-06-21",
+    "transaction_postdate": "2020-06-23",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 65.42,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2020-06-22",
+    "transaction_postdate": "2020-06-22",
+    "transaction_description": "TIM HORTONS #8152 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 3.87,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-06-23",
+    "transaction_postdate": "2020-06-25",
+    "transaction_description": "SHOPPERSDRUGMART0532 WINNIPEG MB",
+    "spend_category": "Health and Education",
+    "amount": 6.01,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-06-26",
+    "transaction_postdate": "2020-06-29",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 0.88,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2020-06-26",
+    "transaction_postdate": "2020-06-29",
+    "transaction_description": "TIM HORTONS #8152 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 3.87,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-06-26",
+    "transaction_postdate": "2020-06-29",
+    "transaction_description": "SHOPPERSDRUGMART0532 WINNIPEG MB",
+    "spend_category": "Health and Education",
+    "amount": 4.25,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-06-27",
+    "transaction_postdate": "2020-06-29",
+    "transaction_description": "TIM HORTONS #8152 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 3.87,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-06-29",
+    "transaction_postdate": "2020-06-30",
+    "transaction_description": "TIM HORTONS #8152 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 1.98,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-06-30",
+    "transaction_postdate": "2020-07-02",
+    "transaction_description": "TIM HORTONS #8152 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 1.98,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-06-30",
+    "transaction_postdate": "2020-07-02",
+    "transaction_description": "REAL CDN. SUPERSTORE # WINNIPEG MB",
+    "spend_category": "Retail and Grocery",
+    "amount": 42.05,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-06-30",
+    "transaction_postdate": "2020-07-02",
+    "transaction_description": "SHOPPERSDRUGMART0532 WINNIPEG MB",
+    "spend_category": "Health and Education",
+    "amount": 5.59,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-07-01",
+    "transaction_postdate": "2020-07-03",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 63.59,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2020-07-01",
+    "transaction_postdate": "2020-07-02",
+    "transaction_description": "TIM HORTONS #8152 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 1.98,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-07-03",
+    "transaction_postdate": "2020-07-06",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 1.98,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2020-07-05",
+    "transaction_postdate": "2020-07-07",
+    "transaction_description": "SHOPPERSDRUGMART0532 WINNIPEG MB",
+    "spend_category": "Health and Education",
+    "amount": 4.25,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-07-08",
+    "transaction_postdate": "2020-07-09",
+    "transaction_description": "REAL CDN. SUPERSTORE # WINNIPEG MB",
+    "spend_category": "Retail and Grocery",
+    "amount": 61.64,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-07-09",
+    "transaction_postdate": "2020-07-10",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 65.89,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2020-07-09",
+    "transaction_postdate": "2020-07-13",
+    "transaction_description": "SHOPPERSDRUGMART0532 WINNIPEG MB",
+    "spend_category": "Health and Education",
+    "amount": 20.14,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-07-10",
+    "transaction_postdate": "2020-07-13",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 20.14,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2020-07-12",
+    "transaction_postdate": "2020-07-13",
+    "transaction_description": "ASOYAMA SUSHI WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 77.31,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 1.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-08-17",
+    "transaction_postdate": "2020-08-18",
+    "transaction_description": "MY SPICE HOUSE WINNIPEG MB",
+    "spend_category": "Retail and Grocery",
+    "amount": 11.0,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-08-17",
+    "transaction_postdate": "2020-08-18",
+    "transaction_description": "REAL CDN. SUPERSTORE # WINNIPEG MB",
+    "spend_category": "Retail and Grocery",
+    "amount": 22.37,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-08-20",
+    "transaction_postdate": "2020-08-21",
+    "transaction_description": "MPI BISON SERVICE CENTRE WINNIPEG MB",
+    "spend_category": "Professional and Financial Services",
+    "amount": 25.0,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-08-20",
+    "transaction_postdate": "2020-08-24",
+    "transaction_description": "SOBEYS #5037 WINNIPEG MB",
+    "spend_category": "Retail and Grocery",
+    "amount": 15.76,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-08-22",
+    "transaction_postdate": "2020-08-24",
+    "transaction_description": "TIM HORTONS #8152 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 1.98,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-08-23",
+    "transaction_postdate": "2020-08-24",
+    "transaction_description": "TIM HORTONS #8152 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 3.5,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-08-25",
+    "transaction_postdate": "2020-08-26",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 79.61,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2020-08-26",
+    "transaction_postdate": "2020-08-27",
+    "transaction_description": "REAL CDN. SUPERSTORE # WINNIPEG MB",
+    "spend_category": "Retail and Grocery",
+    "amount": 14.68,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-08-26",
+    "transaction_postdate": "2020-08-27",
+    "transaction_description": "MY SPICE HOUSE WINNIPEG MB",
+    "spend_category": "Retail and Grocery",
+    "amount": 5.5,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-08-29",
+    "transaction_postdate": "2020-08-31",
+    "transaction_description": "TIM HORTONS #8152 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 1.98,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-08-29",
+    "transaction_postdate": "2020-08-31",
+    "transaction_description": "STARBUCKS 04827 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 5.18,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-08-30",
+    "transaction_postdate": "2020-08-31",
+    "transaction_description": "TIM HORTONS #2856 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 1.6,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-08-30",
+    "transaction_postdate": "2020-08-31",
+    "transaction_description": "TIM HORTONS #2856 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 1.6,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-09-02",
+    "transaction_postdate": "2020-09-03",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 30.54,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2020-09-03",
+    "transaction_postdate": "2020-09-08",
+    "transaction_description": "SHOPPERSDRUGMART0532 WINNIPEG MB",
+    "spend_category": "Health and Education",
+    "amount": 13.25,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-09-04",
+    "transaction_postdate": "2020-09-08",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 33.25,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2020-09-04",
+    "transaction_postdate": "2020-09-08",
+    "transaction_description": "MPI ST MARY'S SERVICE CENWINNIPEG MB",
+    "spend_category": "Professional and Financial Services",
+    "amount": 20.0,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-09-05",
+    "transaction_postdate": "2020-09-09",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 1.6,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "payment"
+  },
+  {
+    "transaction_date": "2020-09-05",
+    "transaction_postdate": "2020-09-08",
+    "transaction_description": "TIM HORTONS #8152 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 1.6,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-09-06",
+    "transaction_postdate": "2020-09-08",
+    "transaction_description": "TIM HORTONS #8152 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 1.6,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-09-07",
+    "transaction_postdate": "2020-09-08",
+    "transaction_description": "TIM HORTONS #8152 WINNIPEG MB",
+    "spend_category": "Restaurants",
+    "amount": 1.98,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "charge"
+  },
+  {
+    "transaction_date": "2020-09-09",
+    "transaction_postdate": "2020-09-10",
+    "transaction_description": "PAYMENT THANK YOU/PAIEMENT MERCI",
+    "spend_category": "Payment",
+    "amount": 5.18,
+    "card_number": "4505 5300 8610 5937",
+    "source_pdf": "onlineStatement 4.pdf",
+    "transaction_type": "payment"
+  }
+]

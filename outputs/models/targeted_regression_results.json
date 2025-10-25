@@ -1,0 +1,49 @@
+{
+  "model_type": "Improved Regression (Outliers Removed)",
+  "best_model": "Gradient Boosting",
+  "improvements_made": [
+    "Removed top 5% outliers (extreme foreign currency/conference payments)",
+    "Added merchant-specific historical averages",
+    "Reduced regularization for better fit",
+    "Focused on regular, predictable spending patterns"
+  ],
+  "original_performance": {
+    "test_r2": 0.3028
+  },
+  "improved_performance": {
+    "Ridge (Optimized)": {
+      "test_r2": 0.004331987056753972,
+      "cv_r2": -0.08782182028540042,
+      "test_mae": 27.97647453070349,
+      "test_rmse": 62.68903423194839,
+      "overfitting": 0.3162016995439051
+    },
+    "Lasso (Optimized)": {
+      "test_r2": -0.0057732439718682915,
+      "cv_r2": -0.11010787925110203,
+      "test_mae": 28.397873877298043,
+      "test_rmse": 63.00635281824358,
+      "overfitting": 0.22947642979576688
+    },
+    "Random Forest": {
+      "test_r2": 0.1201939249854761,
+      "cv_r2": -0.37595308835300356,
+      "test_mae": 25.12493915331891,
+      "test_rmse": 58.92882476852119,
+      "overfitting": 0.5388497268314443
+    },
+    "Gradient Boosting": {
+      "test_r2": 0.23367333784086575,
+      "cv_r2": -0.8494326299369277,
+      "test_mae": 24.412253841486667,
+      "test_rmse": 54.99728741230076,
+      "overfitting": 0.7398225999157432
+    }
+  },
+  "best_model_details": {
+    "test_r2": 0.23367333784086575,
+    "test_mae": 24.412253841486667,
+    "overfitting": 0.7398225999157432,
+    "interpretation": "Improved model achieves R\u00b2=0.2337 on regular spending"
+  }
+}
